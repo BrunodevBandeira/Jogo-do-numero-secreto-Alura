@@ -18,7 +18,7 @@ Projeto de um jogo feito durante o bootcamp Oracle Next Education - Alura
 - Para executar com o Docker
 - Tenha uma conta no Dockerhub - [Docker](https://hub.docker.com/)
 - No terminal execute os comandos 
-- 
+  
 ```
 $ docker pull bandeiradocker/game
 ```
