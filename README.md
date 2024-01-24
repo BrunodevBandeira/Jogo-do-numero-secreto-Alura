@@ -28,7 +28,9 @@ $ docker pull bandeiradocker/game
 ```
 $ docker run -dit -p 8080:80 docker bandeiradocker/game:v3
 ```
-- Em seu navegador digite localhost:8080 para ver o projeto em execução. <h1 align="center">
+- Em seu navegador digite localhost:8080 para ver o projeto em execução.
+- Link da vercel  - [Vercel](https://jogo-do-numero-secreto-alura-bay.vercel.app/) 
+
+  <h1 align="center">
                                                                         <img align="center" alt="css" height="80px" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" />
                                                                           </h1>
-- Link da vercel  - [Vercel](https://jogo-do-numero-secreto-alura-bay.vercel.app/) 
