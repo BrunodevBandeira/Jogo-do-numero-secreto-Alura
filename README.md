@@ -26,7 +26,7 @@ $ docker pull bandeiradocker/game
 - Em seguida use o comando
   
 ```
-$ docker run -dit -p 8080:80 docker pull bandeiradocker/game:v3
+$ docker run -dit -p 8080:80 docker bandeiradocker/game:v3
 ```
 - Em seu navegador digite localhost:8080 para ver o projeto em execução. <h1 align="center">
                                                                         <img align="center" alt="css" height="80px" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" />
